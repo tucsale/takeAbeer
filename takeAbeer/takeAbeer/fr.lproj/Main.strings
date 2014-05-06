@@ -1,0 +1,114 @@
+
+/* Class = "IBUIBarButtonItem"; title = " "; ObjectID = "0r9-Xx-x4l"; */
+"0r9-Xx-x4l.title" = " ";
+
+/* Class = "IBUILabel"; text = "Pays"; ObjectID = "1ft-Eo-gLE"; */
+"1ft-Eo-gLE.text" = "Pays";
+
+/* Class = "IBUILabel"; text = "Nom"; ObjectID = "1lG-Sl-aSo"; */
+"1lG-Sl-aSo.text" = "Nom";
+
+/* Class = "IBUILabel"; text = "Phone"; ObjectID = "3kk-d2-DSg"; */
+"3kk-d2-DSg.text" = "Tél";
+
+/* Class = "IBUILabel"; text = "Pays"; ObjectID = "4il-Wn-iyN"; */
+"4il-Wn-iyN.text" = "Pays";
+
+/* Class = "IBUILabel"; text = "Brasserie"; ObjectID = "9bn-VY-q1G"; */
+"9bn-VY-q1G.text" = "Brasserie";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "E8I-op-Hx3"; */
+"E8I-op-Hx3.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "LBs-OO-p4n"; */
+"LBs-OO-p4n.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Brasserie"; ObjectID = "LSo-lI-ufS"; */
+"LSo-lI-ufS.text" = "Brasserie";
+
+/* Class = "IBUILabel"; text = "Postal"; ObjectID = "M1E-mS-Yk0"; */
+"M1E-mS-Yk0.text" = "Postal";
+
+/* Class = "IBUILabel"; text = "Fermentation"; ObjectID = "NGU-Ue-FBb"; */
+"NGU-Ue-FBb.text" = "Fermentation";
+
+/* Class = "IBUILabel"; text = "Address"; ObjectID = "PuF-3c-Zby"; */
+"PuF-3c-Zby.text" = "Address";
+
+/* Class = "IBUILabel"; text = "Chargement..."; ObjectID = "QPV-ZW-Ot3"; */
+"QPV-ZW-Ot3.text" = "Chargement...";
+
+/* Class = "IBUILabel"; text = "Brasserie"; ObjectID = "R0f-W6-9Vu"; */
+"R0f-W6-9Vu.text" = "Brasserie";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Rsp-4D-Cq7"; */
+"Rsp-4D-Cq7.text" = "Label";
+
+/* Class = "IBUILabel"; text = "999"; ObjectID = "SXd-jd-jiL"; */
+"SXd-jd-jiL.text" = "999";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "T8k-fs-Dmc"; */
+"T8k-fs-Dmc.text" = "Name";
+
+/* Class = "IBUIButton"; normalTitle = "Les bières ressemblantes"; ObjectID = "VKF-Um-Jgk"; */
+"VKF-Um-Jgk.normalTitle" = "Les bières ressemblantes";
+
+/* Class = "IBUILabel"; text = "Couleur"; ObjectID = "XCG-6r-ksr"; */
+"XCG-6r-ksr.text" = "Couleur";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "Xbk-JV-jNK"; */
+"Xbk-JV-jNK.text" = "100";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "Z50-BR-lva"; */
+"Z50-BR-lva.text" = "Type";
+
+/* Class = "IBUITableViewController"; title = "Listing"; ObjectID = "akA-P0-P1b"; */
+"akA-P0-P1b.title" = "Listing";
+
+/* Class = "IBUILabel"; text = "Country"; ObjectID = "cU7-VF-d7a"; */
+"cU7-VF-d7a.text" = "Country";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ecY-92-TJ5"; */
+"ecY-92-TJ5.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Nom"; ObjectID = "fNA-50-VWu"; */
+"fNA-50-VWu.text" = "Nom";
+
+/* Class = "IBUIBarButtonItem"; title = "Ok"; ObjectID = "fVM-pP-hYS"; */
+"fVM-pP-hYS.title" = "Ok";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "hWg-W0-d4K"; */
+"hWg-W0-d4K.text" = "100";
+
+/* Class = "IBUILabel"; text = "Couleur"; ObjectID = "i3I-rc-GzE"; */
+"i3I-rc-GzE.text" = "Couleur";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "i3o-Wb-1dY"; */
+"i3o-Wb-1dY.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "j24-mJ-8FL"; */
+"j24-mJ-8FL.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Alcool"; ObjectID = "kBH-fo-cbi"; */
+"kBH-fo-cbi.text" = "Alcool";
+
+/* Class = "IBUIButton"; normalTitle = "Les bières du brasseur"; ObjectID = "kV9-8z-0ln"; */
+"kV9-8z-0ln.normalTitle" = "Les bières du brasseur";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "ovz-hU-g6g"; */
+"ovz-hU-g6g.text" = "Type";
+
+/* Class = "IBUILabel"; text = "City"; ObjectID = "rti-6t-SAx"; */
+"rti-6t-SAx.text" = "City";
+
+/* Class = "IBUILabel"; text = "Alcool"; ObjectID = "rvP-g4-epi"; */
+"rvP-g4-epi.text" = "Alcool";
+
+/* Class = "IBUILabel"; text = "Brasserie"; ObjectID = "wMq-9t-ZW5"; */
+"wMq-9t-ZW5.text" = "Brasserie";
+
+/* Class = "IBUILabel"; text = "Fermentation"; ObjectID = "wuS-5H-ows"; */
+"wuS-5H-ows.text" = "Fermentation";
+
+/* Class = "IBUIViewController"; title = "Details"; ObjectID = "yNK-cX-Pfw"; */
+"yNK-cX-Pfw.title" = "Details";

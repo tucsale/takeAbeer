@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Filter par</string>
+		<key>menu</key>
+		<array>
+            
+			<dict>
+				<key>type</key>
+				<string>filter</string>
+				<key>filterBy</key>
+				<string>brewery</string>
+				<key>title</key>
+				<string>Brasserie</string>
+			</dict>
+            <dict>
+				<key>type</key>
+				<string>filter</string>
+				<key>filterBy</key>
+				<string>color</string>
+				<key>title</key>
+				<string>Couleur</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>filter</string>
+				<key>filterBy</key>
+				<string>country</string>
+				<key>title</key>
+				<string>Pays</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>filter</string>
+				<key>filterBy</key>
+				<string>type</string>
+				<key>title</key>
+				<string>Type</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Options</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<string>switch</string>
+				<key>filterBy</key>
+				<string>favorite</string>
+				<key>title</key>
+				<string>Favorites seul.</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>switch</string>
+				<key>filterBy</key>
+				<string>rate</string>
+				<key>title</key>
+				<string>Notées seul.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Informations</string>
+		<key>menu</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<string>web</string>
+				<key>url</key>
+				<string>http://fr.m.wikipedia.org/wiki/Bi%C3%A8re</string>
+				<key>title</key>
+				<string>La bière</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>web</string>
+				<key>url</key>
+				<string>http://fr.m.wikipedia.org/wiki/Fermentation_de_la_bi%C3%A8re</string>
+				<key>title</key>
+				<string>Fermentation</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>web</string>
+				<key>url</key>
+				<string>http://www.takeabeer.com</string>
+				<key>title</key>
+				<string>A propos</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
